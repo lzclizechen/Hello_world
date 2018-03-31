@@ -1,3 +1,3 @@
 # Hello_world
 Hello world!
-# author is lizechen
+# author is LogicPanda
